@@ -38,70 +38,103 @@
 </html>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/vit1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/vit2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/vit3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/IMG_20240418_000012.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/IMG_20240417_235912.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/IMG_20240417_235928.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/pc1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/pc2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/pc3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ig1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ig2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ig3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/l1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/l2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/l3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/p1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/p2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/p3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/u1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/u2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/u3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/bit1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/bit2.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/bit3.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j1.jpg" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j2.jpg" "height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j3.jpg"" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ma1.jpg"" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
 <img src="src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ma2.jpg"" height=""><br>
-</p><p align="center">
-<img src="src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ma3.jpg"" height=""><br>
-</p><p align="center">
+</p>
+<p align="center">
+<img src="src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ma3.jpg""height=""><br>
+</p>
+<p align="center">
 <img src="" height=""><br>
 </p>
