@@ -126,14 +126,3 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j3.jpg" height=""><br>
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j1.jpg" height=""><br>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/u1.jpg" height=""><br>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/u1.jpg" height=""><br>
-</p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/u1.jpg" height=""><br>
-</p>
