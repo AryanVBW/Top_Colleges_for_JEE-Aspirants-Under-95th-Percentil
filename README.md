@@ -1,4 +1,6 @@
-# Top Colleges for JEE Aspirants: Under 95th Percentile
+<p align="center">
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/IMG-20240418-WA0000.jpg" height="300"><br>
+</p>
 
 | Rank      | Percentile          |
 |-----------|---------------------|
