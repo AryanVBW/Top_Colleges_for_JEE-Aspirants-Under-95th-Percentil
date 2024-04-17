@@ -9,10 +9,7 @@
 | 109329-90144 | 90.0448455-91.79177119 |
 | 169542-92303 | 84.56203931-91.59517945 |
 | 326517-173239 | 70.26839007-84.22540213 |
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AryanVBW/Top_Colleges_for_JEE-Aspirants-Under-95th-Percentil/count.svg" />
-</p>
+
 # 1
 
 ![DTU Image 1](https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu1.jpg)
