@@ -36,3 +36,72 @@
 </table>
 </body>
 </html>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu1.jpg" height=""><br>
+</p><p align="center">
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu2.jpg" height=""><br>
+</p><p align="center">
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu3.jpg" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p><p align="center">
+<img src="" height=""><br>
+</p>
