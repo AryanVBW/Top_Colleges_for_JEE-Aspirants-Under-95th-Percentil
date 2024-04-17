@@ -43,11 +43,11 @@
 </p><p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/dtu3.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/vit1.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/vit2.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/vit3.jpg" height=""><br>
 </p><p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/IMG_20240418_000012.jpg" height=""><br>
 </p><p align="center">
@@ -55,17 +55,17 @@
 </p><p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/IMG_20240417_235928.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/pc1.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/pc2.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/pc3.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ig1.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ig2.jpg" height=""><br>
 </p><p align="center">
-<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
+<img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/ig3.jpg" height=""><br>
 </p><p align="center">
 <img src="https://raw.githubusercontent.com/AryanVBW/Under95collage/main/.jpg" height=""><br>
 </p><p align="center">
