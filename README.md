@@ -58,4 +58,4 @@
 ![Misc Image 23](https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j2.jpg)
 ![Misc Image 24](https://raw.githubusercontent.com/AryanVBW/Under95collage/main/j3.jpg)
 
-©All research rights reserved by Harsh sir and team of Vedantu from Vetantu JEE made Ejee YouTube channel.
+©All research rights reserved by Harsh sir and team of Vedantu from Vedantu JEE made Ejee YouTube channel.
